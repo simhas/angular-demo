@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{402CF8F6-D5FC-4A01-89AC-46F4C37FD92F}"
+	ProjectSection(SolutionItems) = preProject
+		app.js = app.js
+		app2.js = app2.js
+		app3.js = app3.js
+		index.html = index.html
+		index1.html = index1.html
+		index2.html = index2.html
+		index3.html = index3.html
+		oppgave1.txt = oppgave1.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

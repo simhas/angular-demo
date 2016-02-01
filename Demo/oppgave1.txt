@@ -1,0 +1,9 @@
+Vi har nå en fungerende prototype med data lastet fra et API
+Som fronten utvikler skal du:
+1. Vis dette på en penere måte (du kan feks lage bokser med bakgrunnsfarge/margin/padding)
+2. Det gir mening og vise klokkeslett på hver flight prøv å bruk "date" filteret for å formatere dette riktig
+3. Om flyet ikke er forsinket vis dette klart og tydelig i feks grønn farge (hint bruk ng-if)
+4. Om flyet ER forsinket vis hva/hvorfor
+5. klarer du finne ut hvor mye mange minutter forsinket flyet faktisk er
+6. Vis hvilket flyselskap som flyr flyet
+7. Configurer angular material til å bruke et annet theme se $mdThemingProvider
