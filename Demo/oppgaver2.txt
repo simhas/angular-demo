@@ -1,0 +1,7 @@
+1: koble til "direction" ved at d/a sendes som en del av requesten
+2: Lag en datepicker for å velge dato, send dette som en del av requesten
+3: Gjør det mulig å velge et eller to klokkeslett
+4: Gjør det mulig å lukke terms and conditions
+5: Gøre det mulig å klikke på en flight for å komme til en ny side, prøv å send flight id inn i det nye viewet legg også på en tilbakeknapp
+5: Bonusoppgave
+Gjør om hele søkebaren til et fungerende direktiv som kan gjenbrukes, hvilke paramentere burde sendes inn?
