@@ -6,6 +6,20 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{402CF8F6-D5FC-4A01-89AC-46F4C37FD92F}"
 	ProjectSection(SolutionItems) = preProject
 		app.js = app.js
+		index.html = index.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Del2", "Del2", "{3B9143FD-3D9F-4684-A095-129B8E34B529}"
+	ProjectSection(SolutionItems) = preProject
+		app4.js = app4.js
+		index4.html = index4.html
+		manus2.txt = manus2.txt
+		oppgaver2.txt = oppgaver2.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Del1", "Del1", "{0C65A9DA-4769-4CFA-84FB-876BCDF8BB81}"
+	ProjectSection(SolutionItems) = preProject
+		app.js = app.js
 		app2.js = app2.js
 		app3.js = app3.js
 		index.html = index.html
@@ -19,5 +33,9 @@ EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3B9143FD-3D9F-4684-A095-129B8E34B529} = {402CF8F6-D5FC-4A01-89AC-46F4C37FD92F}
+		{0C65A9DA-4769-4CFA-84FB-876BCDF8BB81} = {402CF8F6-D5FC-4A01-89AC-46F4C37FD92F}
 	EndGlobalSection
 EndGlobal
