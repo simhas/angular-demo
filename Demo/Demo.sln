@@ -12,17 +12,17 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Del2", "Del2", "{3B9143FD-3D9F-4684-A095-129B8E34B529}"
 	ProjectSection(SolutionItems) = preProject
 		app4.js = app4.js
+		app5.js = app5.js
 		index4.html = index4.html
+		index5.html = index5.html
 		manus2.txt = manus2.txt
 		oppgaver2.txt = oppgaver2.txt
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Del1", "Del1", "{0C65A9DA-4769-4CFA-84FB-876BCDF8BB81}"
 	ProjectSection(SolutionItems) = preProject
-		app.js = app.js
 		app2.js = app2.js
 		app3.js = app3.js
-		index.html = index.html
 		index1.html = index1.html
 		index2.html = index2.html
 		index3.html = index3.html
