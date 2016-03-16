@@ -5,7 +5,7 @@ angular.module('DemoApp', ['ui.router', 'ngMaterial'])
 
         var req = {
             method: 'GET',
-            url: url + 'from=OSL?direction=d&start=2016-02-01T17:00&end=2016-02-01T17:59&language=no',
+            url: url + 'from=OSL&direction=d&start=2016-03-15T18:00&end=2016-03-15T18:59&language=no',
             headers: {
                 'Access-Control-Allow-Origin': '*'
             },

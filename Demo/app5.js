@@ -128,7 +128,7 @@ angular.module('DemoApp', ['ui.router', 'ngMaterial'])
                 '<md-datepicker ng-model="model.date" md-placeholder="Enter date">'+
                 '</md-datepicker>'+
                 
-                '<md-slider flex min="6" max="18" ng-model="model.time" aria-label="time">'+
+                '<md-slider style="width: 50px;" flex min="6" max="18" ng-model="model.time" aria-label="time">'+
                 '</md-slider>'+
 
                 '<md-input-container>' +
